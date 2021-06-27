@@ -19,4 +19,4 @@ Biz-world is an website template.
 
 ### Project Preview:
 
-(https://ali-tahir4024.github.io/Biz-world/)
+[Biz-World Theme](https://alitahir4024.github.io/Biz-world/)
